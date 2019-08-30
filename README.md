@@ -1,4 +1,4 @@
-# vue-app
+# KitCat
 
 ## Project setup
 ```
