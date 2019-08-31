@@ -4,7 +4,7 @@
     <div class="md-layout-item">
       <md-card>
         <md-card-header>
-          <div class="md-title">Fresh cats!</div>
+          <div class="md-title">FreshCats!</div>
         </md-card-header>
 
         <md-card-content>
